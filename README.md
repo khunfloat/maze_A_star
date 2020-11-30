@@ -1,2 +1,3 @@
 # maze_A_star
-Python
+
+This project is my first A* sesrching method. I delvelop with Python language.
